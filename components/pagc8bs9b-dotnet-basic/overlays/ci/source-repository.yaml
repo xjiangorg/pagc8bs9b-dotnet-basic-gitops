@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pagc8bs9b-dotnet-basic-repository
+spec:
+  url: https://github.com/xjiangorg/pagc8bs9b-dotnet-basic
